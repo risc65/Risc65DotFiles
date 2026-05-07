@@ -1,0 +1,6 @@
+brew "git"
+brew "libyaml"
+brew "rbenv"
+brew "openssl"
+brew "openssh"
+
