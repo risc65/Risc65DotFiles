@@ -27,3 +27,5 @@ eval "$(rbenv init - zsh)"
 export PATH="$PATH:$HOME/.lmstudio/bin"
 # End of LM Studio CLI section
 
+# Put brew curl before macos curl
+# export PATH="/opt/homebrew/opt/curl/bin:$PATH"
