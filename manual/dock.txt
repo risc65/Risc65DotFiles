@@ -1,0 +1,1 @@
+System Settings -> Desktop & Dock -> Dock position on screen: Left

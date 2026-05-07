@@ -1,0 +1,4 @@
+Start Terminal application
+
+Settings -> Profile -> Pro -> Font: Monaco 14
+Settings -> Profile -> Pro -> Set as default by the button [Default]

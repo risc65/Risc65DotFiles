@@ -1,0 +1,2 @@
+Go to
+System Settings -> Keyboard -> Keyboard shortcuts -> Modifier Keys -> Caps Lock (⇪) Key -> ^ Control
