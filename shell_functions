@@ -1,0 +1,7 @@
+findii() {
+    local cmd="find ."
+    for pattern in "$@"; do
+        cmd+=" | grep -i -- \"$pattern\""
+    done
+    eval "$cmd"
+}
