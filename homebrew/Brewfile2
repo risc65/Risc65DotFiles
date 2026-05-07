@@ -40,13 +40,11 @@ brew "wget"
 # Casks
 # GUI apps
 cask "android-platform-tools"
-cask "container"
 cask "fork"
 cask "mongodb-compass"
 cask "zed"
 cask "claude-code@latest"
 cask "copilot-cli"
-cask "garmin-express"
 cask "openaudible"
 cask "clickhouse"
 cask "drawio"
